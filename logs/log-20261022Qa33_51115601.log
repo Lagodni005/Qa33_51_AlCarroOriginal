@@ -1,0 +1,18 @@
+1980 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+1982 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+4039 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+4039 [Test worker] INFO  pomtest.TestBase -- ****************************
+4111 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->probe
+7173 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+7225 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+7236 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7256 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+7336 [Test worker] INFO  config.ListenerWd -- After click element -->input
+7350 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+7360 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+16522 [Test worker] INFO  config.ListenerWd -- Before find element-->By.tagName: body
+16537 [Test worker] INFO  config.ListenerWd -- After find element-->By.tagName: body
+16540 [Test worker] INFO  config.ListenerWd -- Location of element-->body
+16597 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+16612 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+16621 [Test worker] INFO  config.ListenerWd -- Location of element-->input

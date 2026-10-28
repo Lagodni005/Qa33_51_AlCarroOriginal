@@ -1,0 +1,118 @@
+2080 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2088 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+4001 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+4001 [Test worker] INFO  pomtest.TestBase -- ****************************
+4079 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarSuccess
+4151 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4191 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4201 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4226 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4235 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4243 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4254 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4264 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4271 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4304 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4313 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4319 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4332 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+4341 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+4407 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+9435 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+9435 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+9435 [Test worker] INFO  config.ListenerWd -- ***************
+9435 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+9435 [Test worker] INFO  config.ListenerWd -- ***************
+9435 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+9435 [Test worker] INFO  config.ListenerWd -- ***************
+9444 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2147c3509fbaffed3ec6c4a041e7f6e3, findElement {value=div.pac-item, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58805}, goog:processID: 12620, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58805/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2147c3509fbaffed3ec6c4a041e7f6e3
+9444 [Test worker] INFO  config.ListenerWd -- ***************
+9444 [Test worker] INFO  config.ListenerWd -- ***************
+9444 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1000.png
+10410 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+15458 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+15460 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+15460 [Test worker] INFO  config.ListenerWd -- ***************
+15460 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+15460 [Test worker] INFO  config.ListenerWd -- ***************
+15460 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+15460 [Test worker] INFO  config.ListenerWd -- ***************
+15462 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2147c3509fbaffed3ec6c4a041e7f6e3, findElement {value=div.pac-item, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58805}, goog:processID: 12620, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58805/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2147c3509fbaffed3ec6c4a041e7f6e3
+15462 [Test worker] INFO  config.ListenerWd -- ***************
+15462 [Test worker] INFO  config.ListenerWd -- ***************
+15462 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1312.png
+16930 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+16930 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+22520 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+22520 [Test worker] INFO  pomtest.TestBase -- ****************************
+22528 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarSuccess
+22540 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+22575 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+22584 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+22598 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+22610 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+22620 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+22631 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+22640 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+22651 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+22688 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+22698 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+22706 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+22722 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+22730 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+22822 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+27882 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+27882 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+27882 [Test worker] INFO  config.ListenerWd -- ***************
+27883 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+27883 [Test worker] INFO  config.ListenerWd -- ***************
+27883 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+27883 [Test worker] INFO  config.ListenerWd -- ***************
+27883 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [659ce96dda98d429831a81ea2e5e7b3e, findElement {value=div.pac-item, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:17380}, goog:processID: 18660, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:17380/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 659ce96dda98d429831a81ea2e5e7b3e
+27883 [Test worker] INFO  config.ListenerWd -- ***************
+27883 [Test worker] INFO  config.ListenerWd -- ***************
+27883 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1309.png
+28765 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+33775 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+33775 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+33775 [Test worker] INFO  config.ListenerWd -- ***************
+33775 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+33775 [Test worker] INFO  config.ListenerWd -- ***************
+33775 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+33775 [Test worker] INFO  config.ListenerWd -- ***************
+33775 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [659ce96dda98d429831a81ea2e5e7b3e, findElement {value=div.pac-item, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:17380}, goog:processID: 18660, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:17380/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 659ce96dda98d429831a81ea2e5e7b3e
+33775 [Test worker] INFO  config.ListenerWd -- ***************
+33775 [Test worker] INFO  config.ListenerWd -- ***************
+33775 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1054.png

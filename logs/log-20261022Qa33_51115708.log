@@ -1,0 +1,59 @@
+2020 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2023 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+16878 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+16879 [Test worker] INFO  pomtest.TestBase -- ****************************
+16966 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->probe
+19833 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+19882 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+19895 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+19919 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+20057 [Test worker] INFO  config.ListenerWd -- After click element -->input
+20070 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+20078 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+20215 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+20223 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+20263 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+20278 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+20287 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+20307 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+20388 [Test worker] INFO  config.ListenerWd -- After click element -->input
+23960 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+23970 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+23977 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+23990 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+24067 [Test worker] INFO  config.ListenerWd -- After click element -->input
+24082 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+24089 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+24173 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+24178 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+24206 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+24217 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+24223 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+24239 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+24295 [Test worker] INFO  config.ListenerWd -- After click element -->input
+27888 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+27902 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+27907 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+27922 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+28020 [Test worker] INFO  config.ListenerWd -- After click element -->input
+28031 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+28038 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+28086 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+28096 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+28104 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+28124 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+28192 [Test worker] INFO  config.ListenerWd -- After click element -->input
+31801 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+31819 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+31828 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+31844 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+31932 [Test worker] INFO  config.ListenerWd -- After click element -->input
+31946 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+31955 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+32035 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+32040 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+32074 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+32084 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+32098 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+32118 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+32186 [Test worker] INFO  config.ListenerWd -- After click element -->input

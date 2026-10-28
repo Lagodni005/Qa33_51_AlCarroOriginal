@@ -1,0 +1,60 @@
+1996 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+1998 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+3959 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+3959 [Test worker] INFO  pomtest.TestBase -- ****************************
+4033 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->probe
+4102 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4143 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4154 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4174 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+4302 [Test worker] INFO  config.ListenerWd -- After click element -->input
+4333 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //td[@aria-label='October 23, 2026']
+4347 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //td[@aria-label='October 23, 2026']
+4354 [Test worker] INFO  config.ListenerWd -- Location of element-->td
+4408 [Test worker] INFO  config.ListenerWd -- Before click element -->tdtext-->23
+4507 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //td[@aria-label='October 25, 2026']
+4517 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //td[@aria-label='October 25, 2026']
+4525 [Test worker] INFO  config.ListenerWd -- Location of element-->td
+4560 [Test worker] INFO  config.ListenerWd -- Before click element -->tdtext-->25
+4627 [Test worker] INFO  config.ListenerWd -- After click element -->td
+4632 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+4642 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+4644 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4658 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+4674 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+4678 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7450 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+7462 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+7475 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7492 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+7593 [Test worker] INFO  config.ListenerWd -- After click element -->input
+12601 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[@aria-label='Next month']
+12612 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[@aria-label='Next month']
+12619 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+12637 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->
+12716 [Test worker] INFO  config.ListenerWd -- After click element -->button
+17730 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[@aria-label='Next month']
+17739 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[@aria-label='Next month']
+17745 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+17755 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->
+17830 [Test worker] INFO  config.ListenerWd -- After click element -->button
+17843 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //td[@aria-label='December 30, 2026']
+17857 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //td[@aria-label='December 30, 2026']
+17865 [Test worker] INFO  config.ListenerWd -- Location of element-->td
+17901 [Test worker] INFO  config.ListenerWd -- Before click element -->tdtext-->30
+23016 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[@aria-label='Next month']
+23030 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[@aria-label='Next month']
+23039 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+23054 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->
+23126 [Test worker] INFO  config.ListenerWd -- After click element -->button
+23138 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //td[@aria-label='January 4, 2027']
+23154 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //td[@aria-label='January 4, 2027']
+23161 [Test worker] INFO  config.ListenerWd -- Location of element-->td
+23196 [Test worker] INFO  config.ListenerWd -- Before click element -->tdtext-->4
+23281 [Test worker] INFO  config.ListenerWd -- After click element -->td
+23281 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+23297 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+23307 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+23318 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+23333 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+23344 [Test worker] INFO  config.ListenerWd -- Location of element-->input

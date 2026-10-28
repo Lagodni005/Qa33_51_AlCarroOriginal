@@ -1,0 +1,397 @@
+2060 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2060 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+4076 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+4076 [Test worker] INFO  pomtest.TestBase -- ****************************
+4153 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarEmptyCityTest
+4227 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4251 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4270 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4291 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4299 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4308 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4321 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4332 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4338 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4365 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4374 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4380 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4393 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+4400 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+4442 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4454 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4461 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4468 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4478 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4487 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4494 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4503 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4508 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4529 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4539 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4544 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4550 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+4559 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+4627 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+4639 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+4640 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4655 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+4661 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+4680 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+4688 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+4697 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+4714 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+4782 [Test worker] INFO  config.ListenerWd -- After click element -->input
+4782 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[text()='Y’alla!']
+4790 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[text()='Y’alla!']
+4799 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+5661 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+5661 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+6955 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+6955 [Test worker] INFO  pomtest.TestBase -- ****************************
+6959 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarEmptyPeriodTest
+6968 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+6993 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+7000 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7016 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+7025 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+7032 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7041 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+7049 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+7057 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7087 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+7098 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+7106 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7118 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+7125 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+7187 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+12210 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+12210 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+12212 [Test worker] INFO  config.ListenerWd -- ***************
+12212 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+12212 [Test worker] INFO  config.ListenerWd -- ***************
+12212 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+12212 [Test worker] INFO  config.ListenerWd -- ***************
+12214 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [88c124567673e41925a85c959b7d26e5, findElement {using=css selector, value=div.pac-item}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:26703}, goog:processID: 10968, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:26703/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 88c124567673e41925a85c959b7d26e5
+12215 [Test worker] INFO  config.ListenerWd -- ***************
+12215 [Test worker] INFO  config.ListenerWd -- ***************
+12215 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1452.png
+12605 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+12622 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+12623 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+17680 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+17697 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+17706 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+17724 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->OK
+17822 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+17840 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+17861 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+17891 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+18034 [Test worker] INFO  config.ListenerWd -- After click element -->input
+18034 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+18046 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+18055 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+18070 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+18080 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+18136 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+18149 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+18158 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+18176 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+18253 [Test worker] INFO  config.ListenerWd -- After click element -->input
+18254 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+18267 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+18273 [Test worker] INFO  config.ListenerWd -- Location of element-->div
+18290 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[text()='Y’alla!']
+18305 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[text()='Y’alla!']
+18320 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+19247 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+19247 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+20726 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+20726 [Test worker] INFO  pomtest.TestBase -- ****************************
+20728 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarSuccess
+20731 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+20757 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+20766 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+20780 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+20789 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+20796 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+20804 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+20814 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+20821 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+20852 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+20857 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+20867 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+20879 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+20888 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+20953 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+26021 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+26021 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+26021 [Test worker] INFO  config.ListenerWd -- ***************
+26021 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+26021 [Test worker] INFO  config.ListenerWd -- ***************
+26021 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+26021 [Test worker] INFO  config.ListenerWd -- ***************
+26021 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9c7bd6beae72fae290505459b2b36b, findElement {using=css selector, value=div.pac-item}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55051}, goog:processID: 8448, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55051/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d9c7bd6beae72fae290505459b2b36b
+26021 [Test worker] INFO  config.ListenerWd -- ***************
+26021 [Test worker] INFO  config.ListenerWd -- ***************
+26021 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1559.png
+26375 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+26392 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+26402 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+31473 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+31483 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+31492 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+31508 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->OK
+31596 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //div[@aria-label='10/23/2026']
+36656 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+36657 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+36657 [Test worker] INFO  config.ListenerWd -- ***************
+36657 [Test worker] INFO  config.ListenerWd -- Arguments:[By.xpath: //div[@aria-label='10/23/2026']]
+36657 [Test worker] INFO  config.ListenerWd -- ***************
+36657 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+36657 [Test worker] INFO  config.ListenerWd -- ***************
+36657 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='10/23/2026']"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9c7bd6beae72fae290505459b2b36b, findElement {using=xpath, value=//div[@aria-label='10/23/2026']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55051}, goog:processID: 8448, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55051/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d9c7bd6beae72fae290505459b2b36b
+36657 [Test worker] INFO  config.ListenerWd -- ***************
+36657 [Test worker] INFO  config.ListenerWd -- ***************
+36657 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1452.png
+38088 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+38088 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+39557 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+39557 [Test worker] INFO  pomtest.TestBase -- ****************************
+39560 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarSuccess
+39564 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+39587 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+39595 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+39609 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+39621 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+39625 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+39635 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+39643 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+39648 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+39679 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+39687 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+39692 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+39704 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+39710 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+39776 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+44822 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+44825 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+44825 [Test worker] INFO  config.ListenerWd -- ***************
+44825 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+44825 [Test worker] INFO  config.ListenerWd -- ***************
+44825 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+44825 [Test worker] INFO  config.ListenerWd -- ***************
+44825 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2f0807291fcf36dd5b2df58c01ad001, findElement {using=css selector, value=div.pac-item}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49681}, goog:processID: 3736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49681/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2f0807291fcf36dd5b2df58c01ad001
+44825 [Test worker] INFO  config.ListenerWd -- ***************
+44825 [Test worker] INFO  config.ListenerWd -- ***************
+44825 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1091.png
+45175 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+45188 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+45196 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+50260 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+50271 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+50281 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+50302 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->OK
+50382 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //div[@aria-label='11/01/2026']
+55423 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+55423 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+55423 [Test worker] INFO  config.ListenerWd -- ***************
+55423 [Test worker] INFO  config.ListenerWd -- Arguments:[By.xpath: //div[@aria-label='11/01/2026']]
+55423 [Test worker] INFO  config.ListenerWd -- ***************
+55423 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+55423 [Test worker] INFO  config.ListenerWd -- ***************
+55423 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='11/01/2026']"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2f0807291fcf36dd5b2df58c01ad001, findElement {using=xpath, value=//div[@aria-label='11/01/2026']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49681}, goog:processID: 3736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49681/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2f0807291fcf36dd5b2df58c01ad001
+55423 [Test worker] INFO  config.ListenerWd -- ***************
+55423 [Test worker] INFO  config.ListenerWd -- ***************
+55423 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1002.png
+56808 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+56808 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+58403 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+58403 [Test worker] INFO  pomtest.TestBase -- ****************************
+58406 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarWrongPeriodTest
+58413 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+58431 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+58441 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+58452 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+58460 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+58471 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+58478 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+58485 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+58493 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+58521 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+58528 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+58533 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+58545 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+58547 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+58608 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+63629 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+63629 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+63629 [Test worker] INFO  config.ListenerWd -- ***************
+63629 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+63629 [Test worker] INFO  config.ListenerWd -- ***************
+63629 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+63629 [Test worker] INFO  config.ListenerWd -- ***************
+63629 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52f2fb260fffc18eeec43963454c158e, findElement {using=css selector, value=div.pac-item}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52673}, goog:processID: 20676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52673/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52f2fb260fffc18eeec43963454c158e
+63629 [Test worker] INFO  config.ListenerWd -- ***************
+63629 [Test worker] INFO  config.ListenerWd -- ***************
+63629 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1817.png
+63968 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+63981 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+63981 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+69016 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+69025 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+69032 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+69049 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->OK
+69119 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+69132 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+69140 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69147 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+69164 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+69171 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69178 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+69187 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+69195 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69221 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+69231 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+69238 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69245 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+69255 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+69353 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+69363 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+69373 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69384 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+69395 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+69423 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+69428 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+69443 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+69461 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+69545 [Test worker] INFO  config.ListenerWd -- After click element -->input
+69545 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+69558 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+69569 [Test worker] INFO  config.ListenerWd -- Location of element-->div
+69576 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[text()='Y’alla!']
+69592 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[text()='Y’alla!']
+69603 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+70716 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+70716 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+72595 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+72598 [Test worker] INFO  pomtest.TestBase -- ****************************
+72599 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->FindCarWrongPeriodTest
+72604 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+72626 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+72633 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+72645 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+72656 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+72658 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+72671 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+72679 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+72685 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+72714 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+72721 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+72730 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+72742 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+72745 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+72812 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-item
+77853 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+77853 [Test worker] INFO  config.ListenerWd -- Failed method:findElement
+77853 [Test worker] INFO  config.ListenerWd -- ***************
+77853 [Test worker] INFO  config.ListenerWd -- Arguments:[By.cssSelector: div.pac-item]
+77853 [Test worker] INFO  config.ListenerWd -- ***************
+77853 [Test worker] INFO  config.ListenerWd -- Exception:NoSuchElementException
+77853 [Test worker] INFO  config.ListenerWd -- ***************
+77853 [Test worker] INFO  config.ListenerWd -- Messageno such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef1fb43d48b16916a23c155f564ced99, findElement {using=css selector, value=div.pac-item}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63254}, goog:processID: 10776, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63254/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef1fb43d48b16916a23c155f564ced99
+77855 [Test worker] INFO  config.ListenerWd -- ***************
+77855 [Test worker] INFO  config.ListenerWd -- ***************
+77855 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1205.png
+78195 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+78204 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+78213 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+83249 [Test worker] INFO  config.ListenerWd -- Before find element-->By.cssSelector: div.pac-container button.dismissButton
+83257 [Test worker] INFO  config.ListenerWd -- After find element-->By.cssSelector: div.pac-container button.dismissButton
+83264 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+83287 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->OK
+83367 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+83381 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+83389 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83400 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+83413 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+83422 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83430 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+83442 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+83449 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83474 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+83482 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+83490 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83502 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+83511 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+83589 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']
+83589 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']
+83610 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83619 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+83623 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+83650 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='city']
+83657 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='city']
+83672 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+83690 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+83778 [Test worker] INFO  config.ListenerWd -- After click element -->input
+83778 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+83795 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='dates']/ancestor::div[contains(@class,'input-container')]//div[contains(@class,'error')]
+83803 [Test worker] INFO  config.ListenerWd -- Location of element-->div
+83813 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[text()='Y’alla!']
+83829 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[text()='Y’alla!']
+83841 [Test worker] INFO  config.ListenerWd -- Location of element-->button

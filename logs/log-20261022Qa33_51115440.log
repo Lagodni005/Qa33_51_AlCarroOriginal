@@ -1,0 +1,32 @@
+1961 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+1965 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+4005 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+4006 [Test worker] INFO  pomtest.TestBase -- ****************************
+4085 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->probe
+7151 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+7201 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+7219 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7243 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+7321 [Test worker] INFO  config.ListenerWd -- After click element -->input
+7338 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+7347 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+16467 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+16467 [Test worker] INFO  config.ListenerWd -- Failed method:executeScript
+16467 [Test worker] INFO  config.ListenerWd -- ***************
+16467 [Test worker] INFO  config.ListenerWd -- Arguments:[return Array.from(document.querySelectorAll('[class*=pac], [role=option], [role=listbox], mat-option, .cdk-overlay-container *')).slice(0,30).map(e=>e.tagName+'.'+e.className+' :: '+(e.innerText||'').slice(0,80)).join('
+'), [Ljava.lang.Object;@1b5a1d85]
+16467 [Test worker] INFO  config.ListenerWd -- ***************
+16467 [Test worker] INFO  config.ListenerWd -- Exception:JavascriptException
+16467 [Test worker] INFO  config.ListenerWd -- ***************
+16469 [Test worker] INFO  config.ListenerWd -- Messagejavascript error: Invalid or unexpected token
+  (Session info: chrome=155.0.8059.86)
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [626dd3a6d7baf893b45567080568ef02, executeScript {script=return Array.from(document.querySelectorAll('[class*=pac], [role=option], [role=listbox], mat-option, .cdk-overlay-container *')).slice(0,30).map(e=>e.tagName+'.'+e.className+' :: '+(e.innerText||'').slice(0,80)).join('
+'), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7298}, goog:processID: 19328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7298/devtool..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 626dd3a6d7baf893b45567080568ef02
+16472 [Test worker] INFO  config.ListenerWd -- ***************
+16472 [Test worker] INFO  config.ListenerWd -- ***************
+16472 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1868.png

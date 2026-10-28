@@ -1,0 +1,35 @@
+2068 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2069 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+4118 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+4118 [Test worker] INFO  pomtest.TestBase -- ****************************
+4192 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->probe
+7247 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: city
+7296 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: city
+7311 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+7332 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+7415 [Test worker] INFO  config.ListenerWd -- After click element -->input
+7429 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+7438 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+16597 [Test worker] INFO  config.ListenerWd -- Before find element-->By.id: dates
+16609 [Test worker] INFO  config.ListenerWd -- After find element-->By.id: dates
+16614 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+16635 [Test worker] INFO  config.ListenerWd -- Before click element -->inputtext-->
+17711 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+17711 [Test worker] INFO  config.ListenerWd -- Failed method:click
+17711 [Test worker] INFO  config.ListenerWd -- ***************
+17713 [Test worker] INFO  config.ListenerWd -- Arguments:null
+17713 [Test worker] INFO  config.ListenerWd -- ***************
+17713 [Test worker] INFO  config.ListenerWd -- Exception:ElementClickInterceptedException
+17713 [Test worker] INFO  config.ListenerWd -- ***************
+17715 [Test worker] INFO  config.ListenerWd -- Messageelement click intercepted: Element <input _ngcontent-rcd-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Fri Oct 22 2027 11:55:13 GMT+0" ng-reflect-min="Thu Oct 22 2026 11:55:13 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-untouched ng-pristine ng-invalid" aria-haspopup="dialog" min="2026-10-22" max="2027-10-22"> is not clickable at point (301, 326). Other element would receive the click: <div style="line-height: 20px; margin: 15px 0px;">...</div>
+  (Session info: chrome=155.0.8059.86)
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5fbc05dd7c1362935dff0cd86bb80a3b, clickElement {id=f.4604402FD885DB3E315EBC4A9DFC7CD7.d.2B5B44E6DA46B1BF5627C170B5674AF1.e.4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56494}, goog:processID: 22372, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56494/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5fbc05dd7c1362935dff0cd86bb80a3b)] -> id: dates]
+Session ID: 5fbc05dd7c1362935dff0cd86bb80a3b
+17715 [Test worker] INFO  config.ListenerWd -- ***************
+17715 [Test worker] INFO  config.ListenerWd -- ***************
+17715 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1465.png

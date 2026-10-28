@@ -1,0 +1,171 @@
+2008 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2008 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+6523 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+6523 [Test worker] INFO  pomtest.TestBase -- ****************************
+6619 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->WrongLoginEmailTest
+11791 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //a[text()='Log in']
+11832 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //a[text()='Log in']
+11848 [Test worker] INFO  config.ListenerWd -- Location of element-->a
+11875 [Test worker] INFO  config.ListenerWd -- Before click element -->atext-->Log in
+12500 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+12516 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+12526 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12551 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+12565 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+12575 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12590 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+12603 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+12613 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12647 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+12660 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+12670 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12684 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+12694 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+12782 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+12802 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+12812 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12828 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+12841 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+12857 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12868 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+12881 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+12892 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12923 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+12937 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+12946 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+12957 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+12965 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+18069 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+18069 [Test worker] INFO  config.ListenerWd -- Failed method:findElements
+18069 [Test worker] INFO  config.ListenerWd -- ***************
+18069 [Test worker] INFO  config.ListenerWd -- Arguments:[By.xpath: //div[text()='It'snot look like email']]
+18069 [Test worker] INFO  config.ListenerWd -- ***************
+18069 [Test worker] INFO  config.ListenerWd -- Exception:InvalidSelectorException
+18069 [Test worker] INFO  config.ListenerWd -- ***************
+18069 [Test worker] INFO  config.ListenerWd -- Messageinvalid selector: Unable to locate an element with the xpath expression //div[text()='It'snot look like email'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[text()='It'snot look like email']' is not a valid XPath expression.
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c657a529dd3d644e1d1efbe00bd0cc5, findElements {value=//div[text()='It'snot look like email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3372}, goog:processID: 13708, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:3372/devtool..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c657a529dd3d644e1d1efbe00bd0cc5
+18075 [Test worker] INFO  config.ListenerWd -- ***************
+18075 [Test worker] INFO  config.ListenerWd -- ***************
+18075 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1518.png
+19739 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+19744 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+21278 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+21278 [Test worker] INFO  pomtest.TestBase -- ****************************
+21289 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->WrongLoginEmailTest
+26339 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //a[text()='Log in']
+26369 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //a[text()='Log in']
+26375 [Test worker] INFO  config.ListenerWd -- Location of element-->a
+26395 [Test worker] INFO  config.ListenerWd -- Before click element -->atext-->Log in
+26775 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+26792 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+26806 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+26822 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+26831 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+26843 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+26852 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+26861 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+26868 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+26902 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+26915 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+26925 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+26935 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+26938 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+27019 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+27036 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+27049 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+27063 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+27075 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+27086 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+27100 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+27114 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+27123 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+27152 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+27160 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+27170 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+27182 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+27192 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+32288 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+32288 [Test worker] INFO  config.ListenerWd -- Failed method:findElements
+32288 [Test worker] INFO  config.ListenerWd -- ***************
+32288 [Test worker] INFO  config.ListenerWd -- Arguments:[By.xpath: //div[text()='It'snot look like email']]
+32288 [Test worker] INFO  config.ListenerWd -- ***************
+32290 [Test worker] INFO  config.ListenerWd -- Exception:InvalidSelectorException
+32290 [Test worker] INFO  config.ListenerWd -- ***************
+32290 [Test worker] INFO  config.ListenerWd -- Messageinvalid selector: Unable to locate an element with the xpath expression //div[text()='It'snot look like email'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[text()='It'snot look like email']' is not a valid XPath expression.
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea9114d99dea1610aed3f304ea10ede1, findElements {value=//div[text()='It'snot look like email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3593}, goog:processID: 11780, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:3593/devtool..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ea9114d99dea1610aed3f304ea10ede1
+32290 [Test worker] INFO  config.ListenerWd -- ***************
+32290 [Test worker] INFO  config.ListenerWd -- ***************
+32290 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1395.png
+33831 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+33831 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+35492 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+35492 [Test worker] INFO  pomtest.TestBase -- ****************************
+35497 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->WrongLoginEmailTest
+40539 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //a[text()='Log in']
+40567 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //a[text()='Log in']
+40573 [Test worker] INFO  config.ListenerWd -- Location of element-->a
+40597 [Test worker] INFO  config.ListenerWd -- Before click element -->atext-->Log in
+40981 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+41004 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+41012 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41031 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+41043 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+41048 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41062 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+41071 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+41080 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41115 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+41125 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+41131 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41145 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+41153 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+41229 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+41249 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+41260 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41275 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+41288 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+41297 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41309 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+41319 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+41328 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41354 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+41363 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+41375 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+41386 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+41393 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+46483 [Test worker] INFO  config.ListenerWd -- Huston, we have a problem!
+46487 [Test worker] INFO  config.ListenerWd -- Failed method:findElements
+46487 [Test worker] INFO  config.ListenerWd -- ***************
+46487 [Test worker] INFO  config.ListenerWd -- Arguments:[By.xpath: //div[text()='It'snot look like email']]
+46487 [Test worker] INFO  config.ListenerWd -- ***************
+46487 [Test worker] INFO  config.ListenerWd -- Exception:InvalidSelectorException
+46487 [Test worker] INFO  config.ListenerWd -- ***************
+46487 [Test worker] INFO  config.ListenerWd -- Messageinvalid selector: Unable to locate an element with the xpath expression //div[text()='It'snot look like email'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[text()='It'snot look like email']' is not a valid XPath expression.
+  (Session info: chrome=155.0.8059.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [64993f03f4301966993a1a9bdcbee003, findElements {value=//div[text()='It'snot look like email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.86, chrome: {chromedriverVersion: 155.0.8059.39 (3ff7ac5a9224..., userDataDir: C:\Users\Pavlova\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55720}, goog:processID: 23456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55720/devtoo..., se:cdpVersion: 155.0.8059.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 64993f03f4301966993a1a9bdcbee003
+46491 [Test worker] INFO  config.ListenerWd -- ***************
+46491 [Test worker] INFO  config.ListenerWd -- ***************
+46491 [Test worker] INFO  config.ListenerWd -- Screen with error is--->src/test/screenshots/screen_1466.png

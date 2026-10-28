@@ -1,0 +1,1 @@
+{"uuid":"65e20070-081c-4b01-a065-4d10d3f214f3","name":"pomtest.TestBase.setUp","children":["f61c3e8c-1e21-4805-9416-f027c81b1e00"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1792655929692,"stop":1792655931952}],"afters":[],"start":1792655929692,"stop":1792655931952}

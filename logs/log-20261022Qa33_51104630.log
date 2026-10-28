@@ -1,0 +1,42 @@
+2160 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+2162 [Test worker] INFO  config.ApplicationManager -- All tests runs in Chrome Browser
+6801 [Test worker] INFO  config.ApplicationManager -- The link --->https://ilcarro.web.app/search
+6804 [Test worker] INFO  pomtest.TestBase -- ****************************
+7062 [Test worker] INFO  pomtest.TestBase -- Name of method (test) --->LoginSuccess
+12197 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //a[text()='Log in']
+12248 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //a[text()='Log in']
+12262 [Test worker] INFO  config.ListenerWd -- Location of element-->a
+12285 [Test worker] INFO  config.ListenerWd -- Before click element -->atext-->Log in
+12947 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+12973 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+12989 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13017 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+13032 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+13041 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13055 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+13069 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+13078 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13114 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='email']
+13124 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='email']
+13132 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13146 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+13161 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+13264 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+13279 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+13290 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13304 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+13317 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+13329 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13340 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+13354 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+13366 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13398 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //input[@id='password']
+13410 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //input[@id='password']
+13418 [Test worker] INFO  config.ListenerWd -- Location of element-->input
+13433 [Test worker] INFO  config.ListenerWd -- sendKeyds-->
+13442 [Test worker] INFO  config.ListenerWd -- sendKeyds_TagName-->input
+13505 [Test worker] INFO  config.ListenerWd -- Before find element-->By.xpath: //button[text()='Y’alla!']
+13514 [Test worker] INFO  config.ListenerWd -- After find element-->By.xpath: //button[text()='Y’alla!']
+13534 [Test worker] INFO  config.ListenerWd -- Location of element-->button
+13552 [Test worker] INFO  config.ListenerWd -- Before click element -->buttontext-->Y’alla!
+13640 [Test worker] INFO  config.ListenerWd -- After click element -->button
